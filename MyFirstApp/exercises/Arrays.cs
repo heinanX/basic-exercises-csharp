@@ -1,5 +1,3 @@
-using System.Diagnostics.Metrics;
-
 namespace BasicExercises
 {
     public static class ArrayRays

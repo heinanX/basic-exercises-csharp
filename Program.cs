@@ -1,3 +1,0 @@
-﻿using BasicExercises;
-
-DateyDates.RunDateyDates();
