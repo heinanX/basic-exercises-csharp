@@ -1,5 +1,5 @@
-using static BasicExercises.RecurringMethods;
-namespace BasicExercises
+using static MyFirstApp.BasicExercises.RecurringMethods;
+namespace MyFirstApp.BasicExercises
 {
     public static class DateyDates
     {

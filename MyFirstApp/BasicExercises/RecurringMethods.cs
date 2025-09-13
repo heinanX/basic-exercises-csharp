@@ -1,4 +1,4 @@
-namespace BasicExercises
+namespace MyFirstApp.BasicExercises
 {
     public static class RecurringMethods
     {
